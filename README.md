@@ -24,3 +24,9 @@ El proyecto está compuesto por tres archivos principales:
 - **HTML**: Para la estructura de la página web.
 - **CSS**: Para los estilos visuales.
 - **JavaScript**: Para la lógica y las interacciones.
+
+## Cómo Usar el Proyecto
+
+1. Clonar el repositorio.
+   ```bash
+   git clone https://github.com/roberteban/Reporte-Escolar-Online.git
